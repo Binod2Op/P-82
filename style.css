@@ -1,0 +1,36 @@
+.body_backgorund {
+    background-image: url("https://images.unsplash.com/photo-1500042600524-37ecb686c775?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjN8fGNvbG9yc3xlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-size: cover;
+  }
+  *{
+    font-family: sans-serif;
+  }
+  h1
+  {
+      color: rgb(0, 204, 255); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white;
+      cursor: pointer; 
+      border-style:ridge;
+  }
+  button {
+    background-color: #00aeff;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 10px 42px;
+    font-size: 22px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
